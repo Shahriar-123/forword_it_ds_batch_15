@@ -1,0 +1,22 @@
+1. Given two integer numbers return their product. If the product is greater than 1000, then return their sum.
+2. Given a range of the first 10 numbers, Iterate from the start number to the end number, and In each iteration
+ print the sum of the current number and previous number
+
+3. Print First 10 natural numbers using while loop.
+
+4. Accept number from user and calculate the sum of all number from 1 to a given number
+
+5. Given a list, iterate it, and display numbers divisible by five, and if you find a number greater than 150, stop the loop iteration.
+
+6. Reverse the following list using for loop
+
+7. Display “My Name Is James” as “My**Name**Is**James” using output formatting of a print() function
+For example: print('My', 'Name', 'Is', 'Tamim') will display MyNameIsJames
+
+So use one of the formatting argument of print() to turn the output into My**Name**Is**Tamim
+
+8. Concatenate two lists index-wise
+
+9. Given a Python list of numbers. Turn every item of a list into its square
+
+10. Access value 20 from the following tuple -> aTuple = ("Orange", [10, 20, 30], (5, 15, 25))
